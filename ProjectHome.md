@@ -1,0 +1,1 @@
+Of course, we can not make the current used challenges available. However, we want to make former CTF applications and challlenges available and easy to install so you can train yourself for future CTF events.. ;-)
